@@ -32,6 +32,6 @@ Inspired by
 
 
 Most of the code is in 2F2F2\main.c
-I have provided a .gba file to run using a gameboy advance emulator.
-Or, compile and create the .gba file yourself by running "make" in a termianl in the 2F2F2 directory.
+I have provided a .gba file to run using a gameboy advance emulator.  
+Or, compile and create the .gba file yourself by running "make" in a terminal in the 2F2F2 directory.
 
