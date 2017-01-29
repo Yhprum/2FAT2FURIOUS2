@@ -18,8 +18,7 @@ There are 2 levels for you to beat. Good Luck!
 --------
 Controls
 --------
-A - place down a green shadow or teleport to a previously placed green shadow
-
+A - place down a green shadow or teleport to a previously placed green shadow  
 B - place down a red shadow or teleport to a previously placed red shadow
 
 ARROW KEYS - move in the direction pressed
