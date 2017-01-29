@@ -19,6 +19,7 @@ There are 2 levels for you to beat. Good Luck!
 Controls
 --------
 A - place down a green shadow or teleport to a previously placed green shadow
+
 B - place down a red shadow or teleport to a previously placed red shadow
 
 ARROW KEYS - move in the direction pressed
@@ -28,7 +29,9 @@ ARROW KEYS - move in the direction pressed
 Inspired by
 -----------
 2FAT2FURIOUS, a gba game by Jesse Chen
----
+
+
+
 Most of the code is in 2F2F2\main.c
 I have provided a .gba file to run using a gameboy advance emulator.
 Or, compile and create the .gba file yourself by running "make" in a termianl in the 2F2F2 directory.
